@@ -21,8 +21,8 @@ importers:
         specifier: ^1.0.11
         version: 1.0.11(typescript@5.7.3)
       mohanson-unittest:
-        specifier: 0.1.9
-        version: 0.1.9(ts-node@10.9.2(@types/node@22.13.4)(typescript@5.7.3))(typescript@5.7.3)
+        specifier: 0.1.8
+        version: 0.1.8(ts-node@10.9.2(@types/node@22.13.4)(typescript@5.7.3))(typescript@5.7.3)
     devDependencies:
       ts-node:
         specifier: ^10.9.2
@@ -1199,8 +1199,8 @@ packages:
   minimatch@3.1.2:
     resolution: {integrity: sha512-J7p63hRiAjw1NDEww1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHw==}
 
-  mohanson-unittest@0.1.9:
-    resolution: {integrity: sha512-aW6BiXOFa49QYMamwHjD0n0yrrySdC6hJdMQJ+rz1Sa9lhyo7ZIRmDYWVTtzEIS1UH+dZw8fVl/qReWXWarpuw==}
+  mohanson-unittest@0.1.8:
+    resolution: {integrity: sha512-WiEA/rB/gdhFxVCEI0MlF1ZM4+dzbPwRtrutSGunYCVD99BYeNgI/4mInYOFdnl/bGWE4xHyX13ZxpJVd2QAcA==}
 
   ms@2.1.3:
     resolution: {integrity: sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==}
@@ -3253,7 +3253,7 @@ snapshots:
     dependencies:
       brace-expansion: 1.1.11
 
-  mohanson-unittest@0.1.9(ts-node@10.9.2(@types/node@22.13.4)(typescript@5.7.3))(typescript@5.7.3):
+  mohanson-unittest@0.1.8(ts-node@10.9.2(@types/node@22.13.4)(typescript@5.7.3))(typescript@5.7.3):
     dependencies:
       '@ckb-ccc/core': 1.5.0(typescript@5.7.3)
       '@types/node': 22.13.4

@@ -18,6 +18,6 @@
     "@ckb-ccc/shell": "^1.1.3",
     "@types/node": "^22.13.4",
     "ckb-ccc": "^1.0.11",
-    "mohanson-unittest": "0.1.9"
+    "mohanson-unittest": "0.1.8"
   }
 }
